@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">TP2Kotlin</string>
+    <string name="app_name" translatable="false">TP2Kotlin</string>
+    <string name="round_robin">Permuter</string>
 </resources>
